@@ -1,4 +1,4 @@
-# 🚀 bs58
+## 🚀 bs58
 
 🔐 Codifique e decodifique dados com **Base58** de forma simples e moderna usando **Node.js**
 
