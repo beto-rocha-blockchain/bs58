@@ -4,7 +4,6 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-20%2B-green?logo=node.js)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Status](https://img.shields.io/badge/status-Em%20desenvolvimento-yellow)
 
 ---
 
