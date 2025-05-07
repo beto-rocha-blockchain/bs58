@@ -53,21 +53,6 @@ Codificado (Base58): 2NEpo7TZRRrLZSi2U
 Decodificado: Hello, Base58!
 ```
 
-
-🧪 Exemplo de uso com ES Modules
-
-```bash
-import bs58 from 'bs58';
-
-const data = 'Hello, Base58!';
-const encoded = bs58.encode(Buffer.from(data));
-const decoded = bs58.decode(encoded).toString();
-
-console.log('Original:', data);
-console.log('Codificado (Base58):', encoded);
-console.log('Decodificado:', decoded);
-```
-
 ## 🧬 Estrutura do projeto
 
 ```bash
