@@ -1,6 +1,6 @@
 # 🚀 bs58
 
-> 🔐 Codifique e decodifique dados com **Base58** de forma simples e moderna usando **Node.js**
+🔐 Codifique e decodifique dados com **Base58** de forma simples e moderna usando **Node.js**
 
 ![Node.js](https://img.shields.io/badge/Node.js-20%2B-green?logo=node.js)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -20,7 +20,7 @@ Este repositório tem como objetivo estudar e demonstrar, na prática, o funcion
 
 ## 🧠 O que é Base58?
 
-> Base58 é uma codificação baseada no alfabeto [A-Za-z0-9], excluindo caracteres ambíguos como `0`, `O`, `l` e `I`.
+Base58 é uma codificação baseada no alfabeto [A-Za-z0-9], excluindo caracteres ambíguos como `0`, `O`, `l` e `I`.
 
 ### ⚖️ Comparação rápida
 
