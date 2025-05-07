@@ -1,24 +1,21 @@
 {
-  "name": "bs58",
+  "name": "bs58-playground",
   "version": "1.0.0",
-  "description": "",
+  "description": "Estudo prático sobre codificação e decodificação usando Base58 com Node.js",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
+  "dependencies": {
+    "bs58": "^5.0.0"
+  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/beto-rocha-blockchain/bs58.git"
+    "url": "https://github.com/seu-usuario/bs58-playground.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/beto-rocha-blockchain/bs58/issues"
-  },
-  "homepage": "https://github.com/beto-rocha-blockchain/bs58#readme",
-  "dependencies": {
-    "bs58": "^6.0.0"
-  }
+  "keywords": ["base58", "node", "encoding", "blockchain"],
+  "author": "Seu Nome",
+  "license": "MIT"
 }
