@@ -1,11 +1,10 @@
-# 🚀 bs58-playground
+# 🚀 bs58
 
-> 🔐 Codifique e decodifique dados com **Base58** de forma simples e moderna usando **Node.js**
+🔐 Codifique e decodifique dados com **Base58** de forma simples e moderna usando **Node.js**
 
-![Node.js](https://img.shields.io/badge/Node.js-18%2B-green?logo=node.js)
+![Node.js](https://img.shields.io/badge/Node.js-20%2B-green?logo=node.js)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Status](https://img.shields.io/badge/status-Em%20desenvolvimento-yellow)
-![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red)
+![bs58](https://img.shields.io/badge/bs58-Encoding-blue)
 
 ---
 
@@ -21,7 +20,7 @@ Este repositório tem como objetivo estudar e demonstrar, na prática, o funcion
 
 ## 🧠 O que é Base58?
 
-> Base58 é uma codificação baseada no alfabeto [A-Za-z0-9], excluindo caracteres ambíguos como `0`, `O`, `l` e `I`.
+Base58 é uma codificação baseada no alfabeto [A-Za-z0-9], excluindo caracteres ambíguos como `0`, `O`, `l` e `I`.
 
 ### ⚖️ Comparação rápida
 
@@ -52,21 +51,6 @@ Você verá algo como:
 Original: Hello, Base58!
 Codificado (Base58): 2NEpo7TZRRrLZSi2U
 Decodificado: Hello, Base58!
-```
-
-
-🧪 Exemplo de uso com ES Modules
-
-```bash
-import bs58 from 'bs58';
-
-const data = 'Hello, Base58!';
-const encoded = bs58.encode(Buffer.from(data));
-const decoded = bs58.decode(encoded).toString();
-
-console.log('Original:', data);
-console.log('Codificado (Base58):', encoded);
-console.log('Decodificado:', decoded);
 ```
 
 ## 🧬 Estrutura do projeto
