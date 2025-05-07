@@ -2,10 +2,9 @@
 
 > 🔐 Codifique e decodifique dados com **Base58** de forma simples e moderna usando **Node.js**
 
-![Node.js](https://img.shields.io/badge/Node.js-18%2B-green?logo=node.js)
+![Node.js](https://img.shields.io/badge/Node.js-20%2B-green?logo=node.js)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-Em%20desenvolvimento-yellow)
-![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red)
 
 ---
 
